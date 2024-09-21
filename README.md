@@ -73,7 +73,7 @@ My primary interests lie in full-stack web development, Java backend development
 |  | Set-2 | Completed |
 |  | Set-3 | Completed |
 | Cryptography | Broadcasts are Bad | Completed |
-|  | Crack the Code | Completed |
+|  | Crack the Code | Incompleted |
 | Forensics | What is There Inside the File? | Completed |
 |  | Serene Escape | Completed |
 
