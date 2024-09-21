@@ -76,4 +76,4 @@ My primary interests lie in full-stack web development, Java backend development
 |  | Crack the Code | Completed |
 | Forensics | What is There Inside the File? | Completed |
 |  | Serene Escape | Completed |
-|-----------|-------------|--------|
+
