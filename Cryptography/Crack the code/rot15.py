@@ -16,7 +16,7 @@ def rot15_decode(text):
     result = []
     for char in text:
         if char.isalpha():
-            shift = 11  # 26 - 15 = 11
+            shift = 11  
             if char.islower():
                 start = ord('a')
             else:
@@ -26,7 +26,7 @@ def rot15_decode(text):
             result.append(char)
     return ''.join(result)
 
-# Example usage
+
 ciphertext = "WAANDTUAAZAJYTTVDAVIARDCCXQL"
 decoded_text = rot15_decode(ciphertext)
 print("Decoded text:", decoded_text)
