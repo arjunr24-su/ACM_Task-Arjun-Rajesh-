@@ -4,6 +4,7 @@
 This repository documents my journey through the cybersecurity labs, from apprentice to practitioner levels. It includes the challenges I faced, the solutions I implemented, and the knowledge I gained along the way.
 
 ## Experiences
+(Only Apprentice level tasks)
 ### Cross-Site Scripting (XSS)
 - **Description:** XSS is a type of injection attack where malicious scripts are injected into otherwise benign and trusted websites.
 - **Experience:** I practiced identifying and exploiting XSS vulnerabilities in various web applications. One notable instance was discovering a stored XSS vulnerability in a test application, which allowed me to execute arbitrary JavaScript code in the context of another user's session.
