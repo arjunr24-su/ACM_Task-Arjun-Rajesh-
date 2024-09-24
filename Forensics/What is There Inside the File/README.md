@@ -11,7 +11,7 @@ This project demonstrates the process of extracting a password-protected zip fil
 
 2. **Ran John the Ripper on the hash file**:
    - Ensured the zip file had proper permissions.
-   - Successfully cracked the password: `softballs`.
+   - Successfully cracked the password: `softball3`.
 
 3. **Extracted the zip using 7z**:
    - Extracted the contents of the zip file using the password obtained.
