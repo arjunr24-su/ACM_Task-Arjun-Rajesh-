@@ -16,6 +16,9 @@ You should choose me because I bring a blend of passion, dedication, and a stron
 
 - Cisco Cybersecurity Specialist (CCS) - Cisco
 - Information Technology Specialist in Cybersecurity - Pearson
+- Basics of Python - Infosys Springboard
+- Programming Fundamentals using Python - Part 1 - Infosys Springboard
+- Programming Fundamentals using Python - Part 2 - Infosys Springboard
 - AI/ML For Geodata Analysis - Indian Institute of Remote Sensing (IIRS), ISRO
 - Oracle Academy Java Programming - Oracle Academy
 - ORACLE Academy Java Fundamentals - Oracle Academy
