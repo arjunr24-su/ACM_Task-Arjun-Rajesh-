@@ -20,7 +20,11 @@ def crack_zip(zip_filepath, wordlist_filepath):
                 zip_file.pwd = password.encode('utf-8')
                 zip_file.testzip()
                 print(f"Password found: {password}")
-                return password
+                
+             
+                zip_file.extractall(pwd=password.encode('utf-8'))  
+                print("Files extracted successfully.")
+                return password  
             except (RuntimeError, pyzipper.BadZipFile, pyzipper.LargeZipFile):
                 continue
 
